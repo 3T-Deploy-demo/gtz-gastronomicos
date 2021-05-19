@@ -5,8 +5,8 @@
 
 
 body {
-  font-family: Arial;
-  color: #fff;
+  font-family: Roboto;
+  color: #037BC1;
 }
 
 .carousel-control-prev-icon,
@@ -30,7 +30,7 @@ body {
 }
 
 .display-1 {
-  font-family: Arial;
+  font-family: Roboto;
   font-size: 4.6rem;
   line-height: 1.1;
 }
@@ -38,7 +38,7 @@ body {
   font-size: 5.75rem;
 }
 .display-2 {
-  font-family: Arial;
+  font-family: Roboto;
   font-size: 3rem;
   line-height: 1.1;
 }
@@ -46,7 +46,7 @@ body {
   font-size: 3.75rem;
 }
 .display-4 {
-  font-family: Arial;
+  font-family: Roboto;
   font-size: 1.1rem;
   line-height: 1.5;
 }
@@ -54,7 +54,7 @@ body {
   font-size: 1.375rem;
 }
 .display-5 {
-  font-family: Arial;
+  font-family: Roboto;
   font-size: 2.2rem;
   line-height: 1.5;
 }
@@ -62,16 +62,16 @@ body {
   font-size: 2.75rem;
 }
 .display-7 {
-  font-family: Arial;
-  font-size: 1.2rem;
-  line-height: 1.5;
+  font-family: Roboto;
+  font-size: 1.4rem;
+  line-height: 1.4;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.5rem;
+  font-size: 1.7rem;
 }
 
 .display-8 {
-  font-family: Arial;
+  font-family: Roboto;
   font-size: 0.8rem;
   line-height: 1.1;
 }
@@ -745,8 +745,18 @@ a {
   transition: color 0.6s;
 }
 .cid-saNWaZyi4k {
-  background-image: url("https://cdn.3tdeploy.com.ar/garantizar/digital/assets/images/45503846_s1080_landing.jpg");
+  background-image: url("../../../assets/images/FondoGastronomicos.jpg");
   background-position: 0px 70px;
+}
+
+.cid-saNWaZyi4k .mbr-text,
+.cid-saNWaZyi4k .mbr-section-btn {  
+  color: #037BC1;
+}
+
+
+#contenedor-merch {
+  background-color: #FFF;
 }
 @media (max-width: 991px) {
   .cid-saNWaZyi4k .mbr-section-title,
@@ -756,10 +766,7 @@ a {
     text-align: center;
   }
 }
-.cid-saNWaZyi4k .mbr-text,
-.cid-saNWaZyi4k .mbr-section-btn {  
-  color: #FFF;
-}
+
 .cid-s48udlf8KU {
   padding-top: 4rem;
   padding-bottom: 3rem;
@@ -1247,7 +1254,8 @@ a {
   }
 
   .cid-saNWaZyi4k {
-    background-image: url("../../../assets/images/45503846_s1080_landing_mobile.jpg");
+    background-color: white;
+    background-image: none;
   }
   
 }
