@@ -64,7 +64,7 @@ body {
 .display-7 {
   font-family: Roboto;
   font-size: 1.4rem;
-  line-height: 1.4;
+  line-height: 1;
 }
 .display-7 > .mbr-iconfont {
   font-size: 1.7rem;
@@ -219,7 +219,7 @@ body {
 .btn-info,
 .btn-info:active {
   background-color: #037BC1 !important;
-  border-color: #53A1B4 !important;
+  border-color: #037BC1 !important;
   color: #ffffff !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
 }
@@ -594,7 +594,7 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):hover {
   background-position: 0px 1.2em;
 }
 .nav-tabs .nav-link.active {
-  color: #6592e6;
+  color: #037BC1;
 }
 .nav-tabs .nav-link:not(.active) {
   color: #232323;
@@ -612,8 +612,8 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):hover {
   background-color: #ff6633;
 }
 .mbr-gallery-filter li.active .btn {
-  background-color: #6592e6;
-  border-color: #6592e6;
+  background-color: #037BC1;
+  border-color: #037BC1;
   color: #ffffff;
 }
 .mbr-gallery-filter li.active .btn:focus {
