@@ -227,7 +227,7 @@ body {
 .btn-info:focus,
 .btn-info.focus,
 .btn-info.active {
-  color: #53A1B4 !important;
+  color: #037BC1 !important;
   background-color: #2260d200 !important;
   border-color: #037BC1 !important;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
@@ -745,7 +745,7 @@ a {
   transition: color 0.6s;
 }
 .cid-saNWaZyi4k {
-  background-image: url("https://cdn.3tdeploy.com.ar/garantizar/gastronomicos/assets/images/FondoGastronomicos.jpg");
+  background-image: url("../../../assets/images/FondoGastronomicos.jpg");
   background-position: 0px 70px;
 }
 
