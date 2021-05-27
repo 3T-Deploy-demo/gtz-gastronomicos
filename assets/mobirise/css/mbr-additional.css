@@ -227,9 +227,9 @@ body {
 .btn-info:focus,
 .btn-info.focus,
 .btn-info.active {
-  color: grey !important;
-  background-color: #53A1B4 !important;
-  border-color: #53A1B4 !important;
+  color: #53A1B4 !important;
+  background-color: #2260d200 !important;
+  border-color: #037BC1 !important;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
 }
 .btn-info.disabled,
