@@ -749,6 +749,14 @@ a {
   background-position: 0px 70px;
 }
 
+.cid-sk {
+  display: none;
+}
+
+.cid-sk img {
+  margin-top: 80px;
+}
+
 .cid-saNWaZyi4k .mbr-text,
 .cid-saNWaZyi4k .mbr-section-btn {  
   color: #037BC1;
@@ -1256,6 +1264,13 @@ a {
   .cid-saNWaZyi4k {
     background-color: white;
     background-image: none;
+  }
+
+  .cid-sk {
+    display: block;
+  }
+  .mbr-fullscreen {
+    padding-top: 0px;
   }
   
 }
